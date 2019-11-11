@@ -1,0 +1,4 @@
+# Changelog
+
+## [Unreleased]
+- Terraform setup
